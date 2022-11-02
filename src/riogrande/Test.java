@@ -5,7 +5,7 @@ package riogrande;
 public class Test {
 	
 	public static void main (String[] args){
-		Maestro maestro = new Maestro ("1234", "Marco", "Valencia", "marcovalencia@riogrande.com");
+		Maestro maestro = new Maestro ("1234", "Mario", "Valencia", "marcovalencia@riogrande.com");
 		maestro.imprimirPerfil();
 	
 		
